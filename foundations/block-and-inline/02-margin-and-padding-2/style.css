@@ -17,4 +17,27 @@ body {
 
 button {
   background: white;
+  padding: 5px 25px 5px 25px;
+  display: block;
+  margin: 0 auto;
+}
+
+.card{
+  padding: 8px;
+}
+
+.title{
+  padding: 8px;
+  margin-bottom: 8px;
+  font-size: 16px;
+}
+
+.content{
+  padding: 10px;
+  margin-bottom: 8px;
+}
+
+.button-container{
+  padding: 5px;
+  text-align: center;
 }
